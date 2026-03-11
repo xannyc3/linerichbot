@@ -12,7 +12,7 @@ const PROVIDERS = {
       {
         id: "pg_opera_dynasty",
         name: "Opera Dynasty",
-        image: "https://img.pgsoft-media.com/uploads/games/opera-dynasty/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 84,
         freeSpinRate: 82,
         maxMultiplier: 33200,
@@ -22,7 +22,7 @@ const PROVIDERS = {
       {
         id: "pg_ways_qilin",
         name: "Ways of the Qilin",
-        image: "https://img.pgsoft-media.com/uploads/games/ways-of-the-qilin/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 95,
         freeSpinRate: 78,
         maxMultiplier: 15000,
@@ -32,7 +32,7 @@ const PROVIDERS = {
       {
         id: "pg_mahjong_ways",
         name: "Mahjong Ways",
-        image: "https://img.pgsoft-media.com/uploads/games/mahjong-ways/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 88,
         freeSpinRate: 85,
         maxMultiplier: 25000,
@@ -42,7 +42,7 @@ const PROVIDERS = {
       {
         id: "pg_fortune_ox",
         name: "Fortune Ox",
-        image: "https://img.pgsoft-media.com/uploads/games/fortune-ox/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 91,
         freeSpinRate: 80,
         maxMultiplier: 8000,
@@ -52,7 +52,7 @@ const PROVIDERS = {
       {
         id: "pg_wild_bandito",
         name: "Wild Bandito",
-        image: "https://img.pgsoft-media.com/uploads/games/wild-bandito/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 79,
         freeSpinRate: 76,
         maxMultiplier: 10000,
@@ -62,7 +62,7 @@ const PROVIDERS = {
       {
         id: "pg_lucky_neko",
         name: "Lucky Neko",
-        image: "https://img.pgsoft-media.com/uploads/games/lucky-neko/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 86,
         freeSpinRate: 83,
         maxMultiplier: 12800,
@@ -72,7 +72,7 @@ const PROVIDERS = {
       {
         id: "pg_gem_saviour_sword",
         name: "Gem Saviour Sword",
-        image: "https://img.pgsoft-media.com/uploads/games/gem-saviour-sword/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 82,
         freeSpinRate: 79,
         maxMultiplier: 20000,
@@ -82,7 +82,7 @@ const PROVIDERS = {
       {
         id: "pg_dragon_hatch",
         name: "Dragon Hatch",
-        image: "https://img.pgsoft-media.com/uploads/games/dragon-hatch/cover.jpg",
+        image: "https://www.pgsoft.com/uploads/Games/Images/c94741fa-7df8-46d3-8841-8b3e6fa8baa3.jpg",
         winRate: 90,
         freeSpinRate: 87,
         maxMultiplier: 16000,
