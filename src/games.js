@@ -10,9 +10,9 @@ const PROVIDERS = {
     color: "#FF6B35",
     games: [
       {
-        id: "pg_opera_dynasty",
-        name: "Opera Dynasty",
-        image: "https://img.pgsoft-media.com/uploads/games/opera-dynasty/cover.jpg",
+        id: "pg_Fortune_Horse",
+        name: "Fortune Horse",
+        image: "img/Fortune Horse.jpg",
         winRate: 84,
         freeSpinRate: 82,
         maxMultiplier: 33200,
@@ -20,9 +20,9 @@ const PROVIDERS = {
         hot: true,
       },
       {
-        id: "pg_ways_qilin",
-        name: "Ways of the Qilin",
-        image: "https://img.pgsoft-media.com/uploads/games/ways-of-the-qilin/cover.jpg",
+        id: "pg_Forbidden_Alchemy",
+        name: "Forbidden Alchemy",
+        image: "img/Forbidden Alchemy.jpg",
         winRate: 95,
         freeSpinRate: 78,
         maxMultiplier: 15000,
@@ -30,9 +30,9 @@ const PROVIDERS = {
         hot: true,
       },
       {
-        id: "pg_mahjong_ways",
-        name: "Mahjong Ways",
-        image: "https://img.pgsoft-media.com/uploads/games/mahjong-ways/cover.jpg",
+        id: "pg_Mythical_Guardians",
+        name: "Mythical Guardians",
+        image: "img/Mythical Guardians.jpg",
         winRate: 88,
         freeSpinRate: 85,
         maxMultiplier: 25000,
@@ -52,7 +52,7 @@ const PROVIDERS = {
       {
         id: "pg_wild_bandito",
         name: "Wild Bandito",
-        image: "https://img.pgsoft-media.com/uploads/games/wild-bandito/cover.jpg",
+        image: "img/b3052890-5530-41f6-b166-dee298be3802.jpg",
         winRate: 79,
         freeSpinRate: 76,
         maxMultiplier: 10000,
@@ -62,7 +62,7 @@ const PROVIDERS = {
       {
         id: "pg_lucky_neko",
         name: "Lucky Neko",
-        image: "https://img.pgsoft-media.com/uploads/games/lucky-neko/cover.jpg",
+        image: "img/cb283d3c-c94d-481d-8063-93afaff4d740.jpg",
         winRate: 86,
         freeSpinRate: 83,
         maxMultiplier: 12800,
@@ -72,7 +72,7 @@ const PROVIDERS = {
       {
         id: "pg_gem_saviour_sword",
         name: "Gem Saviour Sword",
-        image: "https://img.pgsoft-media.com/uploads/games/gem-saviour-sword/cover.jpg",
+        image: "img/edee4972-7863-4f54-8c87-1337c246908e.jpg",
         winRate: 82,
         freeSpinRate: 79,
         maxMultiplier: 20000,
@@ -82,7 +82,7 @@ const PROVIDERS = {
       {
         id: "pg_dragon_hatch",
         name: "Dragon Hatch",
-        image: "https://img.pgsoft-media.com/uploads/games/dragon-hatch/cover.jpg",
+        image: "img/fb6d7d05-8783-41a1-bebc-ec4cd92c883b.jpg",
         winRate: 90,
         freeSpinRate: 87,
         maxMultiplier: 16000,
